@@ -42,17 +42,6 @@ https://dataverse.harvard.edu/file.xhtml?fileId=7609736&version=7.0&toolType=PRE
 - Seaborn
 - Plotly
 
-### Web Application
-- React (Frontend)
-- Django (Backend)
-- PostgreSQL (Database)
-
-### Deployment Platforms
-- Vercel
-- Railway
-- Neon
-
----
 
 ## Data Processing Workflow
 1. Data Collection from Harvard Dataverse  
@@ -61,7 +50,7 @@ https://dataverse.harvard.edu/file.xhtml?fileId=7609736&version=7.0&toolType=PRE
 4. Exploratory Data Analysis (EDA)  
 5. Data Visualization  
 6. Dashboard Development in Tableau  
-7. Integration into Web Application  
+
 
 ---
 
